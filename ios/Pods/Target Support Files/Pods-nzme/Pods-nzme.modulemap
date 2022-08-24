@@ -1,0 +1,6 @@
+module Pods_nzme {
+  umbrella header "Pods-nzme-umbrella.h"
+
+  export *
+  module * { export * }
+}

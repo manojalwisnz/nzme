@@ -1,0 +1,6 @@
+module Pods_nzme_nzmeTests {
+  umbrella header "Pods-nzme-nzmeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
