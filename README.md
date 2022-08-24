@@ -21,3 +21,12 @@ BONUS ROUND 2! (optional):
 - Save the list items to AsyncStorage, so that when you force close and relaunch the app, the items remain.
 Additional (optional):
 Any other features you wish to add that would compliment the Crazy Nicholas Cage experience.
+
+
+## Getting Started
+
+    clone the project : https://github.com/manojalwisnz/nzme.git
+    yarn install
+    
+    iOS : yarn ios
+    android: yarn android
